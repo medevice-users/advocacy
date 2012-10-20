@@ -4,7 +4,15 @@ We've lost our patience.
 
 ## What do we want?
 
-We want unrestricted access to our medical data, regardless of what it is called.  Devices such as insulin pumps, pacemakers, and ICDs generate and collect information about us.  However, we have no way to verify the behavior of operation of these devices, and thus we are prevented from using these devices to properly care for our health.  Industry initiatives have guaranteed that in the case of device malfunction, the patient is the last to know, if ever.  The binary logs, the historical records of our devices, are our property and we need access to them in order to stay safe.
+We want unrestricted access to our medical data, regardless of what it
+is called.  Devices such as insulin pumps, pacemakers, and ICDs
+generate and collect information about us.  However, we have no way to
+verify the behavior of operation of these devices, and thus we are
+prevented from using these devices to properly care for our health.
+Industry initiatives have guaranteed that in the case of device
+malfunction, the patient is the last to know, if ever.  The binary
+logs, the historical records of our devices, are our property and we
+need access to them in order to stay safe.
 
 ## Audience
 
