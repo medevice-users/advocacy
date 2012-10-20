@@ -1,4 +1,4 @@
-# Amanda Hubbard
+# Amanda Hubbard to info@eff.org
 
 Greetings!
 
@@ -30,7 +30,7 @@ the contact form on their website:
 
 
 -----Original Message-----
-> From: XXXXX
+> From: Amanda S. Hubbard
 > To: "ers-crm-ps@medtronic.com" <ers-crm-ps@medtronic.com>
 > Subject: Medtronic Form Submission
 >
@@ -112,8 +112,8 @@ sent this email to Medtronic:
 From: Amanda S. Hubbard 
 > Date: Sun, Sep 9, 2012 at 9:20 PM
 > Subject: ICD patient concerns
-> To: XXXXXXX
-> Cc: XXXXXXX
+> To: Jaimie A. Mattson
+> Cc: Darrell E. Johnson
 >
 >
 > Dear Ms. Mattson and Mr. Johnson,
