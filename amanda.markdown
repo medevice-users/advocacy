@@ -77,8 +77,8 @@ d,
 Their response was this:
 
 
-Dear Amanda Hubbard,
->
+
+>Dear Amanda Hubbard,
 >
 >
 > When you transmit via CareLink, the results of the transmission go
@@ -111,7 +111,7 @@ I found this response blatantly misleading, and so shortly thereafter I
 sent this email to Medtronic:
 
 
-From: Amanda S. Hubbard 
+> From: Amanda S. Hubbard 
 > Date: Sun, Sep 9, 2012 at 9:20 PM
 > Subject: ICD patient concerns
 > To: Jaimie A. Mattson
@@ -196,7 +196,7 @@ outlining the supposed regulations which are prohibiting Medtronic from
 allowing me, *the originator of the data*, to get direct access to my own
 interrogation reports:
 
-Hello Amanda,
+> Hello Amanda,
 >
 > I hope you are doing well.  I wanted to follow-up with you since our phon=
 e
