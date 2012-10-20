@@ -58,18 +58,6 @@ d,
 > Thank you for your attention,
 >
 >    Amanda S. Hubbard
-> First Name: Amanda
-> Middle Initial: S
-> Last Name: Hubbard
-> E-Mail Address: XXXXXX
-> Country: United States
-> Telephone Number: XXXXXXX
-> Address 1: XXXXXXX
-> City: XXXXXX
-> State (USA Only): TN
-> Province (Not USA): TN
-> ZIP / Postal Code: XXXXX
->
 
 
 
